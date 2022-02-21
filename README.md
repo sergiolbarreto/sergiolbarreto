@@ -4,7 +4,7 @@
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=sergiolbarreto&show_icons=true&theme=dracula" alt=""/>
 <img width="45%" align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolbarreto&layout=compact&theme=dracula" alt=""/>
 </div>
-<br><br>
+<br>
   <div>
     <ul>
       <li>
