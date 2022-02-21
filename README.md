@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div style="display:flex;flex-direction:row">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=sergiolbarreto&show_icons=true&theme=dracula" alt=""/>
-<img width="400em" align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolbarreto&layout=compact&theme=dracula" alt=""/>
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=sergiolbarreto&show_icons=true&theme=dracula" alt=""/>
+<img width="45%" align = "right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiolbarreto&layout=compact&theme=dracula" alt=""/>
 </div>
 <br><br><br>
   <div>
