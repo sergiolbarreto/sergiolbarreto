@@ -8,10 +8,10 @@
   <div>
     <ul>
       <li>
-        🔭 I’m currently working at Cozex as front-end and back-end developer
+        🔭 I’m currently working at Cozex as full-stack developer
       </li>
       <li>
-        🌱 I’m currently learning React, Typescript, Tailwind, Angular
+        🌱 I’m currently learning React, Typescript and Tailwind
       </li>
        <li>
         💡 Always learning something
