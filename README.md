@@ -8,7 +8,7 @@
   <div>
     <ul>
       <li>
-        🔭 I’m currently working at Cozex as full-stack developer
+        🔭 I’m currently working at Cozex Tech as full-stack developer
       </li>
       <li>
         🌱 I’m currently learning React, Typescript and Tailwind
